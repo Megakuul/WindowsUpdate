@@ -1,0 +1,10 @@
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\bin\Release\WindowsUpdate_Example.exe.config
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\bin\Release\WindowsUpdate_Example.exe
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\bin\Release\WindowsUpdate_Example.pdb
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\obj\Release\WindowsUpdate_Example.csproj.AssemblyReference.cache
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\obj\Release\WindowsUpdate_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\obj\Release\Interop.WUApiLib.dll
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\obj\Release\WindowsUpdate_Example.csproj.ResolveComReference.cache
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\obj\Release\WindowsUpdate_Example.csproj.CoreCompileInputs.cache
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\obj\Release\WindowsUpdate_Example.exe
+C:\Users\Dr Profi\Downloads\WindowsUpdate_Example\WindowsUpdate_Example\obj\Release\WindowsUpdate_Example.pdb
